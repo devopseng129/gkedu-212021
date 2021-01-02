@@ -1,1 +1,3 @@
 this is the file actually cfreated in master to test conflicts -2
+this is the file to test conflicts in master
+
